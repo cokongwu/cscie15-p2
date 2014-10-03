@@ -11,7 +11,7 @@
     <h1>XKCD Password Generator</h1>
     <div class="result">
         <p>
-	    <?= $result ?>
+	      <?= $result ?>  
 	</p>
     </div>
     <form action="xkcd_gen.php" method="POST">
